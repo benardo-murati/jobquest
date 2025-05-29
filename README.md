@@ -5,7 +5,7 @@
 ## 🚀 Features
 
 - **Authentication**: Email/password sign-up, Google OAuth, "Remember me" option
-- **User Profiles**: Display name, avatar upload via ImgBB, optional CV upload
+- **User Profiles**: Display name, avatar upload via ImgBB
 - **Job Listings**: Browse, search and filter jobs by keyword, salary, and job type
 - **Applications**: Users can apply/withdraw; admins can accept/reject
 - **Admin Dashboard**: Create, edit, delete job postings; review and manage all applications
