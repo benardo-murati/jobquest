@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-btn {
+  @apply px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded hover:bg-blue-700 transition;
+}
+
+.nav-btn-mobile {
+  @apply px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded w-full text-center;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
